@@ -26,7 +26,7 @@
 		{
 			type: "system",
 			label: "System",
-			content: "Thanks for your visit, let me introduce myself."
+			content: "Thanks  vvvvvv for your visit, let me introduce myself."
 		},
 		{
 			time: l(),
